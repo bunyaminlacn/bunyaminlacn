@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bunyaminlacn&show_icons=true&locale=en" alt="bunyaminlacn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunyaminlacn&" alt="bunyaminlacn" /></p>
+
+
+![snake gif](https://github.com/bunyaminlacn/bunyaminlacn/blob/output/github-contribution-grid-snake.gif)
