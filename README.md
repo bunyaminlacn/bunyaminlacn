@@ -31,4 +31,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunyaminlacn&" alt="bunyaminlacn" /></p>
 
 
-![snake gif](https://github.com/bunyaminlacn/bunyaminlacn/blob/output/github-contribution-grid-snake.gif)
